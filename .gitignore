@@ -139,6 +139,7 @@ dmypy.json
 images/
 
 # Image Files
-scripts/test.svs
 scripts/*.svs
 *.svs
+scripts/*.zip
+*.zip
